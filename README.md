@@ -1,5 +1,4 @@
 # data-analytics-portfolio
-# 📊 Divya's Data Analytics Portfolio
 
 Hi — I'm Divya, an aspiring data analyst. Below are my selected projects. Click any project to see code, README, screenshots and sample data.
 
