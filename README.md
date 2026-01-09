@@ -13,7 +13,7 @@ Hi — I'm Divya, an aspiring data analyst. Below are my selected projects. Clic
    _Short: Power BI report exploring energy consumption by country & year._
 
 3. **Bank Marketing Analysis (SQL)**  
-   🔗 
+   🔗 https://github.com/divyaranirs-tech/sql-banking-awareness-campaign
    _Short: SQL analysis identifying customer segments & campaign success._
 
 
