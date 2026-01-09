@@ -9,7 +9,7 @@ Hi — I'm Divya, an aspiring data analyst. Below are my selected projects. Clic
    _Short: Dashboard analyzing patient admissions & KPIs._
 
 2. **World Energy Consumption (Power BI)**  
-   🔗  
+   🔗  https://github.com/divyaranirs-tech/power-bi-world-energy-consumption-dashboard
    _Short: Power BI report exploring energy consumption by country & year._
 
 3. **Bank Marketing Analysis (SQL)**  
