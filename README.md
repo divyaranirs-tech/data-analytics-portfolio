@@ -5,7 +5,7 @@ Hi — I'm Divya, an aspiring data analyst. Below are my selected projects. Clic
 ## Projects
 
 1. **Healthcare Analytics (Excel)**  
-   🔗   
+   🔗   https://github.com/divyaranirs-tech/Healthcare-dashboard
    _Short: Dashboard analyzing patient admissions & KPIs._
 
 2. **World Energy Consumption (Power BI)**  
